@@ -1,0 +1,997 @@
+[
+  {
+    "id": "1",
+    "name": "Wikivu",
+    "city": "Lengkongjaya",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Devshare",
+    "city": "Luoshe",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "plumbing",
+      "welding",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Youbridge",
+    "city": "Kadurahayu",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Voonte",
+    "city": "Tsiroanomandidy",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "welding",
+      "electricals",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Mymm",
+    "city": "Kalbugan",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "electricals",
+      "welding"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Livetube",
+    "city": "Ficksburg",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "welding",
+      "carpenter",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Devify",
+    "city": "Fuquan",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Babbleblab",
+    "city": "Shuicha",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing",
+      "welding",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Feedfish",
+    "city": "Trzciana",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Oyoba",
+    "city": "Disina",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "plumbing",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Skivee",
+    "city": "Oslo",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "electricals",
+      "carpenter",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Yoveo",
+    "city": "Itambé",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "plumbing"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Yambee",
+    "city": "Chengzhong",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "welding",
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Minyx",
+    "city": "Dimitrovgrad",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "carpenter",
+      "electricals"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Gabtype",
+    "city": "Palue",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Meeveo",
+    "city": "Ivano-Frankove",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Jabbertype",
+    "city": "Leidschendam",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing",
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Tagfeed",
+    "city": "Bojnik",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Photobug",
+    "city": "Cintra",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "carpenter"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Browseblab",
+    "city": "Margate",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "welding",
+      "plumbing",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Kaymbo",
+    "city": "Ciudad Vieja",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Yacero",
+    "city": "Senhor da Serra",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "electricals",
+      "plumbing",
+      "welding"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Kare",
+    "city": "Rakiv Lis",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "carpenter",
+      "welding"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Jabbercube",
+    "city": "Novo Hamburgo",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "welding",
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Jabbersphere",
+    "city": "Töreboda",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "welding",
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Realpoint",
+    "city": "Aktsyabrski",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Aivee",
+    "city": "Merapit",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Brainbox",
+    "city": "Boniewo",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "welding",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Topiczoom",
+    "city": "Myrnyy",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "welding",
+      "plumbing",
+      "electricals"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Jatri",
+    "city": "Chibombo",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing",
+      "electricals"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Voomm",
+    "city": "Inderka",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "welding",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Blogtag",
+    "city": "Cravinhos",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "plumbing",
+      "welding"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Abata",
+    "city": "Midrand",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "carpenter"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Eimbee",
+    "city": "Sidaraja",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Yabox",
+    "city": "Wolmaransstad",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "carpenter",
+      "welding"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Thoughtbridge",
+    "city": "Palermo",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "electricals",
+      "plumbing",
+      "welding"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Devshare",
+    "city": "Athens",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Pixope",
+    "city": "Arjona",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "electricals",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Bubblebox",
+    "city": "Vinhedo",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Browsecat",
+    "city": "Český Těšín",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Skyba",
+    "city": "Krajan Sale",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "carpenter"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Aimbu",
+    "city": "Mocoa",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "welding",
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Wikibox",
+    "city": "Güiria",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Lajo",
+    "city": "Huilelot",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "electricals",
+      "carpenter",
+      "welding"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Jabbersphere",
+    "city": "Akron",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing",
+      "carpenter",
+      "electricals"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Realmix",
+    "city": "Braunschweig",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "welding",
+      "plumbing",
+      "electricals"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Jaxnation",
+    "city": "Aleksandrovsk-Sakhalinskiy",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Yodo",
+    "city": "Karlshamn",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "plumbing",
+      "carpenter",
+      "electricals"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Rhybox",
+    "city": "Gongju",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "plumbing",
+      "welding"
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Jabberstorm",
+    "city": "Linggou",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "plumbing",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Oyonder",
+    "city": "Doushaguan",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "carpenter",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Tagopia",
+    "city": "Sevaster",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Zoomdog",
+    "city": "Wola Filipowska",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "welding",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Fivechat",
+    "city": "Kemuning",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Linktype",
+    "city": "Paccho",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "carpenter",
+      "electricals",
+      "welding"
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Midel",
+    "city": "Groningen",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "welding",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Twimbo",
+    "city": "Cepões",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "plumbing",
+      "welding",
+      "electricals"
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Zoozzy",
+    "city": "Nowy Staw",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Photolist",
+    "city": "Jianguang",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "carpenter",
+      "electricals",
+      "welding"
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Kazio",
+    "city": "Kasiyan",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Skivee",
+    "city": "Shanga",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "carpenter",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Thoughtbeat",
+    "city": "Bradag",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Jabbersphere",
+    "city": "Guandian",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing",
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Plambee",
+    "city": "Gasan",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Cogidoo",
+    "city": "Palmdale",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "welding",
+      "carpenter",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Riffpedia",
+    "city": "Daming",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "carpenter",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Yodoo",
+    "city": "Kitahama",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Leenti",
+    "city": "Maripa",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing"
+    ]
+  },
+  {
+    "id": "69",
+    "name": "Fliptune",
+    "city": "Balakhta",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "electricals",
+      "welding",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Devcast",
+    "city": "Morshansk",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Rhyzio",
+    "city": "Karlskoga",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Jetwire",
+    "city": "Volgo-Kaspiyskiy",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "plumbing"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Voonder",
+    "city": "Metahāra",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Jamia",
+    "city": "Oliveira de Baixo",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "carpenter",
+      "electricals",
+      "welding"
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Jayo",
+    "city": "Bankeryd",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "electricals",
+      "carpenter",
+      "welding"
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Edgeify",
+    "city": "Zblewo",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Tanoodle",
+    "city": "Yāsūf",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "carpenter",
+      "electricals"
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Brightdog",
+    "city": "Yelan’-Kolenovskiy",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing"
+    ]
+  },
+  {
+    "id": "79",
+    "name": "JumpXS",
+    "city": "Ülken",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing",
+      "electricals",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Jayo",
+    "city": "Jihui",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "electricals",
+      "carpenter",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Midel",
+    "city": "Lidun",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "carpenter"
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Kwideo",
+    "city": "Concepción del Uruguay",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "welding",
+      "electricals"
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Photolist",
+    "city": "Magok",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "electricals",
+      "welding",
+      "carpenter"
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Wikizz",
+    "city": "Södertälje",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "carpenter"
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Trilia",
+    "city": "Contraalmirante Cordero",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "carpenter",
+      "electricals"
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Meembee",
+    "city": "Iława",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Twitternation",
+    "city": "Deqing",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "plumbing"
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Thoughtworks",
+    "city": "Songbai",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "plumbing",
+      "electricals"
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Meemm",
+    "city": "Morfovoúni",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "carpenter",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Devpoint",
+    "city": "Licupis",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "electricals"
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Skyvu",
+    "city": "Mirny",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "plumbing",
+      "electricals"
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Omba",
+    "city": "Duifang",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "plumbing",
+      "carpenter",
+      "electricals"
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Rhyzio",
+    "city": "Klavdiyevo-Tarasove",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "electricals",
+      "carpenter",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Jaloo",
+    "city": "San Francisco",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "welding"
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Voonte",
+    "city": "Francisco I Madero",
+    "logo": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+    "specialities": [
+      "carpenter"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Podcat",
+    "city": "Non Sung",
+    "logo": "http://dummyimage.com/400x400.png/dddddd/000000",
+    "specialities": [
+      "welding",
+      "electricals"
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Oyoyo",
+    "city": "Las Palmas",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "electricals",
+      "welding"
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Cogidoo",
+    "city": "Monkey Hill",
+    "logo": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+    "specialities": [
+      "electricals",
+      "welding",
+      "plumbing"
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Topiczoom",
+    "city": "Komysh-Zorya",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "carpenter",
+      "welding"
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Meejo",
+    "city": "Temyasovo",
+    "logo": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+    "specialities": [
+      "carpenter",
+      "plumbing"
+    ]
+  }
+]
